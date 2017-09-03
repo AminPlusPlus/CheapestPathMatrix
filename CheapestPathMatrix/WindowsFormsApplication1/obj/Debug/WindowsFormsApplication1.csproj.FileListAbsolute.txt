@@ -1,0 +1,9 @@
+\\Mac\Home\Desktop\CHMatrix\CheapestPathMatrix\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\CHMatrix\CheapestPathMatrix\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+\\Mac\Home\Desktop\CHMatrix\CheapestPathMatrix\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+\\Mac\Home\Desktop\CHMatrix\CheapestPathMatrix\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+\\Mac\Home\Desktop\CHMatrix\CheapestPathMatrix\WindowsFormsApplication1\bin\Debug\Cheapest Path Matrix.exe.config
+\\Mac\Home\Desktop\CHMatrix\CheapestPathMatrix\WindowsFormsApplication1\bin\Debug\Cheapest Path Matrix.exe
+\\Mac\Home\Desktop\CHMatrix\CheapestPathMatrix\WindowsFormsApplication1\bin\Debug\Cheapest Path Matrix.pdb
+\\Mac\Home\Desktop\CHMatrix\CheapestPathMatrix\WindowsFormsApplication1\obj\Debug\Cheapest Path Matrix.exe
+\\Mac\Home\Desktop\CHMatrix\CheapestPathMatrix\WindowsFormsApplication1\obj\Debug\Cheapest Path Matrix.pdb
